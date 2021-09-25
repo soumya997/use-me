@@ -1,9 +1,9 @@
-<!-- Copy and paste the converted output. -->
+<!-- Output copied to clipboard! -->
 
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 92.216 seconds.
+Conversion time: 110.565 seconds.
 
 
 Using this Markdown file:
@@ -16,8 +16,8 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β31
-* Wed Sep 15 2021 10:00:34 GMT-0700 (PDT)
-* Source doc: Copy of TCS Ninja  All Slots Questions 2021-22 | PrepInsta
+* Sat Sep 25 2021 06:14:37 GMT-0700 (PDT)
+* Source doc: With ans  TCS Ninja  All Slots Questions 2021-22 | PrepInsta
 * Tables are currently converted to HTML tables.
 
 WARNING:
@@ -19160,7 +19160,7 @@ So on
 
 The number 1 starts from block-1,2 on block-2,3 on block -3, 4 on block-4 and 5 on block-5. Again 6 on block-4 and so on.
 
-Here we observe a pattern, the numbers 10,8 and 2 are on block-2 , 3,7 and 11 on the block 3 and so on. 
+Here we observe a pattern: the numbers 10,8 and 2 are on block-2 , 3,7 and 11 on block 3 and so on. 
 
 Given a positive integer N. The task is to find the correct block to which the number assigned.
 
