@@ -1,3 +1,4 @@
+Go to [about page](about.md)
 ## Day Planner
 
 - [ ] <mark style="background: #BBFABBA6;">Model ensembling</mark> 
