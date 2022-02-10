@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Day Planner
 
-You can use the [editor on GitHub](https://github.com/soumya997/use-me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- [ ] <mark style="background: #BBFABBA6;">Model ensembling</mark> 
+- [ ] <mark style="background: #BBFABBA6;">Make a classifier to filter out the FPs</mark> 
+- [ ] <mark style="background: #BBFABBA6;">Try to figure out doing NMS with multiple image size inference like</mark> [this](https://www.kaggle.com/nicksergievskiy/cots-ens-yolov5-submission-scoring-error) 
+- [ ] <mark style="background: #BBFABBA6;">Train Yolox, yolor</mark> 
+- [ ] Fix systamatic eval of <mark style="background: #FFB86CA6;">yolov5</mark> 
+- [ ] Augment some data for validation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soumya997/use-me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [Major ramp ups]
+- [ ] Fine tune the provided models [IMP]  <mark style="background: #FFF3A3A6;">[today]</mark> 
+- [ ] Train default CascadeRCNN with mmdet [IMP] <mark style="background: #FFF3A3A6;">[today]</mark> 
+- [ ] Use yolov5 evolution for HPT  [IMP]
+- [ ] Train yolox and yolor  [IMP]
+- [ ] Look into ensemble of hybrid model [IMP]
+- [x] Do the classification [IMP] <mark style="background: #FFF3A3A6;">[today]</mark> 
+- [x] Submit the vid split yolov5 model [Minor] <mark style="background: #FFF3A3A6;">[today]</mark> 
+- [ ] Integrate the classification filter [IMP] <mark style="background: #FFF3A3A6;">[today]</mark> 
+- [ ] Systematic YOLO eval [IMP] <mark style="background: #FFF3A3A6;">[today]</mark> 
