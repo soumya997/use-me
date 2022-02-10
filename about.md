@@ -1,8 +1,4 @@
----
-title: ABOUT PAGE
-layout: _layouts/default.html
-filename: about.md
---- 
+
 
 ## Day Planner
 
@@ -65,3 +61,9 @@ filename: about.md
 - [ ] `download image from intenet for training`
 - [ ] `When I tested the model in high resolution, there were a lot of "fake starfish" on the picture, but why did I get a higher score?`
  - `Ans:` F2 score metric is used in this competition. The F2 metric weights recall more heavily than precision, as in this case it makes sense to tolerate some false positives in order to ensure very few starfish are missed. That's why you observe more FP with improved KPI.
+<!-- 
+---
+title: ABOUT PAGE
+layout: _layouts/default.html
+filename: about.md
+---  -->
