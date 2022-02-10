@@ -1,6 +1,6 @@
 ---
 title: ABOUT PAGE
-layout: template
+layout: Cayman
 filename: about.md
 --- 
 
